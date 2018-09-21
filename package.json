@@ -1,0 +1,33 @@
+{
+  "name": "statistics-bad-for-you",
+  "version": "0.0.1",
+  "description": "Open First Day Deck",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LaurentGoderre/open-deck"
+  },
+  "author": "Laurent Goderre <laurent.goderre@gmail.com> (http://github.com/LaurentGoderre)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LaurentGoderre/open-deck/issues"
+  },
+  "homepage": "https://github.com/LaurentGoderre/open-deck",
+  "devDependencies": {
+    "grunt": "^1.0.3",
+    "grunt-assemble": "^0.6.3",
+    "grunt-contrib-clean": "^2.0.0",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-cssmin": "^3.0.0",
+    "grunt-gh-pages": "^2.0.0",
+    "grunt-sass": "^3.0.1",
+    "load-grunt-tasks": "^4.0.0",
+    "node-sass": "^4.9.3"
+  },
+  "dependencies": {
+    "reveal.js": "^3.7.0"
+  }
+}

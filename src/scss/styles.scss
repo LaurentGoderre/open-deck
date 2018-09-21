@@ -1,0 +1,10 @@
+@import '../../node_modules/reveal.js/css/theme/league.css';
+
+h1{
+	height: 1px !important;
+	width: 1px !important;
+	clip: rect(1px, 1px, 1px, 1px);
+	overflow: hidden !important;
+	position: absolute;
+	margin: 0 !important;
+}
